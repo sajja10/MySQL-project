@@ -1,6 +1,15 @@
 # Database-with-MySQL
-In this project, my teammates and I created a database based on life in villages in anime movies/shows. 
+In this project, my teammates and I created a database based on life in villages in anime movies/shows in 4 phases.
+## Phase 1
+#### we listed down the requirements of the miniworld that we had planned.
 
+## Phase 2
+#### We designed an ER diagram for our mini-world which contains information about all the entities, their attributes and relationships. We used draw.io to draw the ER diagram.
+
+## Phase 3
+#### We converted the ER diagram into relational models for better understanding. Then, iteratively, we converted this to first, second and third normal forms.
+
+## Phase 4
 #### We have implemented the following SQL commands in our Project:
 
 ### (1) To insert the the data about Ninja in the database (Insert):
